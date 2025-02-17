@@ -1,3 +1,10 @@
+
+
+
+感谢https://github.com/Bilybill/WeChatBot提出的基础，我在此基础上，增加了日志、除错等机制，更加好用。
+——————————————————————————————————————————————————————————————————————————————————————————————
+
+
 # 项目介绍
 
 本项目基于wxauto代码库实现了大模型接入自动聊天，代码参考[deepseek_project项目](https://github.com/1692775560/deepseek_project/tree/main)，主要解决了itchat库的使用风险问题，主要功能（参考[deepseek_project项目](https://github.com/1692775560/deepseek_project/tree/main)）：
